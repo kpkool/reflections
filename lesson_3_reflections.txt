@@ -1,0 +1,4 @@
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+No, i would not. Use remote for final/approved copy of my code to github (remote). Occansionally, use remote rather than local provide work load is volatile and other sharing same exact code base.
